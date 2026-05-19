@@ -1,4 +1,4 @@
-# 🪢 Jogo da Forca — Exercício 7.9
+# 🪢 Jogo da Forca
 
 Implementação de um **jogo da forca para dois jogadores** em Python puro, desenvolvida como exercício prático de lógica de programação do curso de Introdução à Programação com Python. O programa roda diretamente no terminal, sem dependências externas.
 
